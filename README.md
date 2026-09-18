@@ -81,7 +81,7 @@ rules:
 
 ## 📸 截图
 
-![我的截图](attachment:截图.png)
+![我的截图](attachment:54247e1b-d9d8-413e-8a32-17d036a8c32c.png)
 
 👍
 
