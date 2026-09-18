@@ -1,1 +1,2 @@
-你可以用做一个本地代理（这里用clashmi，具体配置交给agent自己）把目标域名代理到本地，代理到127.0.0.1，再使用这个压缩包作为skill---大功告成
+你可以用做一个本地代理（这里用clashmi，具体配置交给agent自己，让agent根据clash-local-port-forward.zip的最小化路径来操作）
+再把目标域名代理到本地的127.0.0.1，再使用这个压缩包must-read-for-penetration-testing.zip作为skill，在每次任务交给ai---大功告成
